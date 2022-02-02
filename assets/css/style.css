@@ -581,11 +581,7 @@ section {
     font-size: 36px;
   }
 }
-@media (max-width: 400px){
-  #settext{
-    font-size: 15px;
-  }
-}
+
 @media (max-width: 575px) {
   .features .nav-link {
     padding: 15px;
@@ -1354,7 +1350,7 @@ section {
   padding: 30px 0;
 }
 #footer h3 {
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 700;
   color: #fff;
   position: relative;
