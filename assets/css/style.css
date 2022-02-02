@@ -581,6 +581,11 @@ section {
     font-size: 36px;
   }
 }
+@media (max-width: 400px){
+  #settext{
+    font-size: 15px;
+  }
+}
 @media (max-width: 575px) {
   .features .nav-link {
     padding: 15px;
