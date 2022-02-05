@@ -737,6 +737,7 @@ section {
 .portfolio .title a {
   color: #2a2c39;
   transition: ease-in-out 0.3s;
+  font-size: 1.1rem;
 }
 .portfolio .title a:hover {
   color: #ef6603;
